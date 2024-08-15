@@ -11,7 +11,7 @@ Finally, the number of revolutions of the final shaft is recorded as the integra
 The experience gained in manufacturing and sourcing parts for this project was truly unique. I am deeply grateful to everyone who contributed to the development of this remarkable project within a year.
 ### Final Setup Designed at SolidWorks
 ![Our Design](./after.png)
-![Previous Design](./before.png)
+
 
 ![Electronics Components](./Electronics_Components.png)
 ![Final Fabricated Setup](./Assembled_Setup.png)
